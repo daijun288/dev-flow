@@ -1,6 +1,6 @@
 ---
 name: dev-flow
-description: One-stop code change workflow. Flow: Coding → Check Agent → Testing → Acceptance. MANDATORY testing, MUST NOT skip.
+description: One-stop code change workflow.
 argument-hint: [requirement description]
 disable-model-invocation: true
 allowed-tools: Read Grep Glob Edit Write Bash(mvn *) Bash(npm *) Bash(git *) AskUserQuestion Agent
